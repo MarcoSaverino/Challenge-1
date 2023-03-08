@@ -1,28 +1,9 @@
-# HORISEON 
 
+# HORISEON 
 
 # URL for live URL
 
-
 # SCREENSHOT WEBSITE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
