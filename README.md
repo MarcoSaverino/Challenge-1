@@ -1,17 +1,16 @@
-# Code Refactor 
-## In this Challenge i was able to prepare the site based on the Acceptance criteria
 
-## WHEN I view the source code
-THEN I find semantic HTML elements
+# HORISEON 
 
-## WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+# URL for live URL
 
-## WHEN I view the image elements
-THEN I find accessible alt attributes
+# SCREENSHOT WEBSITE
 
-## WHEN I view the heading attributes
-THEN they fall in sequential order
 
-## WHEN I view the title element
-THEN I find a concise, descriptive title
+
+
+## ABOUT
+This is a website for a marketing agency called Horiseon
+The website for Horiseon has been refactored into a codebase that follows accessibility standards
+that will allow the site to be optimized for search engines
+
+## Contributors
