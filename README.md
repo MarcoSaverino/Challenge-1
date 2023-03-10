@@ -1,7 +1,7 @@
 
 # HORISEON
 
-## User Story
+## DESCRIPTION
 The goal of this project is to refactor a codebase that follows accessibility standards
 so that the Horiseon site is optimized for search engines 
 
