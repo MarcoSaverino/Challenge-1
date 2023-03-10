@@ -23,9 +23,10 @@ THEN I find a concise, descriptive title
 [![Screenshot](/Challenge1-Screenshot.PNG)](https://marcosaverino.github.io/Challenge-1/)
 
 ## LINKS 
-PAGE PREVIEW: https://marcosaverino.github.io/Challenge-1/
-GITHUB REPO: https://github.com/MarcoSaverino/Challenge-1
+PAGE PREVIEW: https://marcosaverino.github.io/MSaverino-Challenge-1/
+
+GITHUB REPO: https://github.com/MarcoSaverino/MSaverino-Challenge-1
 
 ## Contributors
-marco saverino, 
+Marco Saverino, 
 © 2019 Horiseon Social Solution Services, Inc.
